@@ -1,0 +1,14 @@
+[
+    {
+        "name": "groceries",
+        "shops": ["aldi", "lidl"]
+    },
+    {
+        "name": "gas",
+        "shops": ["aral", "jet"]
+    },
+    {
+        "name": "amazon",
+        "shops":["amazon"]
+    }
+]
