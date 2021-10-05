@@ -6,8 +6,8 @@ import (
 )
 
 var (
-	csvFile        = "./expenses-example.CSV"
-	categoriesFile = "./categories-example.json"
+	csvFile        = "./expenses.CSV"
+	categoriesFile = "./categories.json"
 )
 
 func main() {
